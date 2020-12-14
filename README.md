@@ -1,0 +1,1 @@
+# beautifulSoap-ile-netten-veri-cekme
